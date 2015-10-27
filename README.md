@@ -1,4 +1,4 @@
-# Workshop-Outlines
+# Digital Fellows Workshop Outlines
 
 General outlines for face-to-face workshops (these are not tutorials)
 
