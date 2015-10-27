@@ -1,0 +1,201 @@
+Wordpress 2.0: Categories, Menus, Widgets, Plugins, CSS, SEO and Analytics
+(Adding organization, structure, functionality, and pizzazz to your site)
+
+By participating in this workshop, you will be able to:
+•	Use categories to organize your posts and group relevant topics using the menu
+•	Create customized menus that will help visitors better navigate your site
+•	Add widgets to increase the functionality of your site (i.e., a calendar or contact form)
+•	Use plugins to add functionality to your site (almost anything you can imagine)
+•	Add custom CSS to over-ride the theme defaults, and customize your site, and
+•	Install analytics to understand how visitors use your site.
+
+I.	Posts vs. Pages
+Encourage discussion	Yes	No
+Social (notification sent to followers, RSS feeds, etc.)	Yes	No
+Organized with Categories and Tags	Yes	No
+Chronology matters	Yes	No
+Hierarchical	No	Yes
+Appear in menu	With use of Categories	Yes
+
+Posts are better suited for information you will regularly be updating. By default, they are listed in reverse chronological order, and sent out in RSS feeds (so everyone who follows you gets an update of your new post). In many themes, your latest post is the home page or the landing page. Posts are meant to be timely and encourage discussion. 
+For example, keeping a blog about teaching, research, or an ongoing topic is a good use for posts.  
+
+Pages are better suited for static information that doesn’t change over time. These do not appear in RSS feeds. Comments are allowed (if you allow them), but the topics are not as geared towards discussion. Pages can be hierarchical, so you can have pages embedded within other pages.
+For example, telling the world about your research interests, professional activities and teaching experience is a good use for pages.
+
+II.	Post Organization - Categories vs. Tags
+
+Helps users find topics	Yes	Yes
+Required for all posts	Yes	No
+Hierarchical	Yes	No
+Can be used as a menu item	Yes	No
+
+Categories are generally broad topics that are logically organized to help readers navigate your posts. 
+For example, you may have a category ‘Literacy’ and child categories ‘Digital Literacy’, ‘Social Literacy’, and ‘Academic Literacy’. 
+
+Tags help refine that navigation, and can be more specific. A tag will come up when users search your site, but cannot be used for the static navigation in a menu. 
+For example, in a Post tagged with ‘Digital Literacy’, you may have the tags ‘Texting’, and ‘Teens’.
+
+1.	To add a Category to your Post, go to Categories → Add New Category on the right side of the Edit Post screen.
+2.	To see all of your categories, add new ones (with or without a description), and see how many posts are in each category, go to Posts → Categories in the Dashboard menu. 
+
+III.	 Page Organization – Menus
+
+Menus provide the primary organization for your site. Many themes allow you to create a custom menu. This gives you more control over your site’s organization. 
+
+By default, most menus appear at the top of every page. You can change where your custom menu appears in the Widgets (see Section IV of this handout).
+
+1.	To create a custom menu, click on the Appearance → Menus in the Dashboard Menu
+2.	Select the Pages you want to appear and reorder them by picking the box up and moving it to the respective order. Subpages are made by moving the box to the right.
+3.	Give your Menu a name and Save Menu (the name doesn’t matter – only you will see it)
+4.	Add Categories to your Menu. When you add a Category to your menu, it will direct your visitor to all of the Posts with that Category. The most recent post will appear first. 
+5.	Make this the Primary Menu
+6.	You may need to also set it as the Primary Menu in your Theme Settings. Go to Appearance → Themes → Customize in your Dashboard Menu
+
+You can always edit your custom menu if you add new pages or categories. Some themes don’t offer Custom Menus. The default menu setting is that pages are added to the menu in the order they were created, and categories are never added. 
+
+If your theme doesn’t have Custom Menus, you can always add it as a Widget
+
+IV.	Widgets - Adding functionality for your users
+
+If there is a feature you want your users to have (i.e., a custom menu (if your site doesn’t have one), a drop down list of all categories, a Tag Cloud, Search Bar, etc.), you will need to add a Widget. 
+
+Widgets are things that your visitors can see, and add functionality to your site (slightly different from plugins, which we will cover next week).
+
+To see what Widgets are available, go to Appearances → Widgets in the Dashboard Menu
+
+Because visitors can see them, you will need to pick each widget up place them where you want them to be. The number of Widgets areas depends on your theme. Here we have 5 areas: The Main Sidebar, Showcase Sidebar, and Footer Areas One, Two, and Three. 
+
+V.	Widgets vs. Plugins
+
+Drag & Drop	Yes	No
+Adds functionality for users	Yes	Yes
+Nearly infinite number	No	Yes
+
+Widgets will show something to your user in one of the designated locations (sidebar, footer, etc.) 
+For example, you want to add a 1 sentence description on the far right side about you. This is a text widget in the main (or right) sidebar.
+
+Plugins add functionality to your site and may or may not change the appearance of your site. 
+For example, you want to add a fillable contact form to a page. This is a plugin “Contact Form 7”
+
+There are 277 plugins on the Academic Commons. Below is a sampling of some and how they work. Before installing any plugin, be sure to go to the plugin site to find out how it works and to be sure its still being maintained. Even though the AC vets them when they are added, some may become outdated in that time.
+
+Name	Description
+Add Users Sidebar Widget	People can add themselves to the blog (must be registered members of the Academic Commons). Good for group sites that do not have sensitive information (i.e., research groups, etc.) Must first install the plugin then add the widget afterwards
+Authors Widget	Allows you to show a list of authors in any location. This plugin creates a widget you can use to place the list of authors where you’d like them to appear
+Category Posts Widget	Allows you to show on the sidebar(s) the most recent posts from any given category (also creates a widget that then needs to be placed)
+Custom Sidebars	Each page/post can have its own sidebar
+Easy Rotator for Wordpress	Inserts a slider of images to your page
+FD Footnotes	Footnotes on your posts and pages!!
+Google Fonts	All the fonts from Google !! This will make your site beautiful!!
+Google Forms	Add a googleform to your site.
+Open Book	Displays the cover and content information for books
+Page2Cat: Category Pages & Posts Shortcodes	If you are making changes to your site and have a lot of pages that you want to make into posts, this will help you do it quickly
+Photodropper	This is AWESOME! Helps you find creative commons licensed photos to put on your blog
+Social	Sends notification of new posts to twitter followers, facebook, etc.
+Table Press	Very easy tables in your page or post (with the advanced sort by any column feature, too)
+
+VI.	Customizing your Site or Blog
+
+1.	CSS: Cascading Style Sheets
+a.	Wordpress reads this document to tell it how to render the html (you can’t alter the html).
+2.	What can CSS do??
+a.	Change fonts, colors, sizes, etc. of each text type (i.e., paragraphs, headings, subheadings, etc.)
+b.	Hide or display fonts
+c.	Change backgrounds, add or take away borders, etc.
+d.	Change the width of the content area or sidebars
+e.	So much more!
+
+3.	To change the CSS, go to Appearance → Custom User CSS in the Dashboard menu
+4.	First example: Hiding the meta data on posts
+5.	How to do this on any theme
+footer.entry-meta is called a ‘selector’. It tells the CSS what ‘element’ to modify. This part is theme-specific
+visibility: hidden  tells it what to do. This is pretty much the same across themes, and is always surrounded by { }
+visibility is called a ‘property’, hidden is called a ‘value’. Each element has multiple properties. Each property should have only one value.
+
+6.	But how do I know what the selector is called on my theme?
+a.	Option 1: Search for it by typing in the name of your theme and what you want to do http://en.forums.wordpress.com/forum/css-customization
+b.	Option 2: Use the dev tools
+i.	Chrome: go to View → Developer → Developer Tools (on a Mac: alt+command+i)
+
+
+ii.	Firefox: Download Firebug
+Go to Tools→ Web Developer → Firebug → Open Firebug
+ 
+
+c.	Click on the magnifying glass then highlight the object you want to find the selector for.
+The element’s selector will appear highlighted in the html in the main window, and at the top of the Style tab of the window on the right. 
+In the example below, ‘Older Posts’ is highlighted, and corresponds to 
+.nav-previous
+The current properties and values appear in the Style window.
+
+d.	Copy and Paste the selector and all of its properties and values into the Custom User CSS on your dashboard
+
+e.	Change the values to what you want (i.e., change float: left  to float: right)
+ 
+The changes made here will apply to the entire site. 
+It is possible to make page by page alterations as well. Copy the new CSS you want that page to follow into the top of the page in the text portion of the content window.
+
+7.	Now let’s change the font!
+My favorite way to do this is with the Google Fonts Plugin.
+a.	Install Google Fonts
+b.	Go to the Google Fonts page and pick a font https://www.google.com/fonts#
+c.	Click on “Quick Select” (the second little box)
+d.	Copy the CSS code from step 4 (you don’t need to do the other steps if you have installed the Google Fonts Plugin!)
+e.	Copy the font name into your Custom CSS with the type of font you want to change
+
+ 
+
+
+If you want to change a specific piece of text, use these tags around it:
+
+<p> blah blah blah </p>
+<h1> blah blah blah </h1>
+<h2> blah blah blah </h2>
+<h3> blah blah blah </h3>
+<h4> blah blah blah </h4>
+<h5> blah blah blah </h5>
+<h6> blah blah blah </h6>
+
+Usually use one of the header that you are not likely to use (i.e., h5 or h6)
+
+That’s it! If ever in doubt about what values to use, just search for it. If it’s ambiguous, there will be discussion about it on either the Wordpress Codex or Stack exchange (and many other places, too)
+
+VII.	Search Engine Optimization (SEO)
+
+1.	What is SEO? 
+Search Engines such as Google, Yahoo, Bing, etc. ranks pages based on a variety of metrics based on a proprietary algorithm. Some features of the algorithm are always relevant and never change. Some of the more nuanced items change. 
+
+2.	Why should academics care about SEO – we are building our names, not a product!
+Yes, this is true – but it would be nice for people to find you based on your field, your research interests, or your achievements in addition to your name.
+Secondly, things like twitter, facebook, etc. have absurdly high SEOs – it would be better to be found for something you intentionally curate.  
+
+3.	How do I increase my SEO? 
+This is definitely a balancing act for academics – some SEO optimization techniques just won’t work for the type of sites we usually build (i.e., resource pages with lots of links), but others will (i.e., good organization, clear writing, and clear meta data).
+
+Let’s start with a simple plugin:
+Wordpress SEO by Yoast
+
+1.	Install the Plugin: Wordpress SEO by Yoast
+
+2.	Configure the settings (or leave the defaults) – the Take a Tour button will take you through more than we can get through today.
+3.	Go to edit any Page or Post on your site to get a summary of the SEO for your site. 
+At the bottom of the page are the SEO Functions. On the General Tab, there is Snippet Preview (by default this pulls the first few lines from your page – you can change that here in Meta Description).
+
+a.	Focus Keyword asks you to set a keyword to summarize your page. Think about who you are trying to attract, and how you would search for your own page. That should be your keyword. 
+b.	Wordpress SEO uses this to analyze the rest of your page and return suggestions about how to increase your SEO.
+c.	It will give you further analysis on the Page Analysis tab, graded by how important Wordpress SEO finds the issue to be.
+
+VIII.	Analytics
+
+1.	Google Analytics is definitely the most common Analytics type. Because the Academic Commons is a multi-user installation, you have to request your analytics report from the commons. 
+a.	Useful to find out who is accessing your site, how often, and from where. 
+b.	If you build something big, this is a great metric to have on a resume (or a really digitally oriented CV).
+
+IX.	Questions?
+
+Thank you!  Best of luck customizing your site!
+Please take a moment to give us some feedback here: 
+http://tinyurl.com/gcdfworkshop
+
+
