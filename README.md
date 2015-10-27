@@ -7,8 +7,8 @@ Please feel free to change, readapt, rework, and reuse all of these!
 
 ### Wordpress
 
-[Wordpress 2](Wordpress/wordpress_2)  
-[Wordpress 3](Wordpress/wordpress_3)  
+[Wordpress 2](Wordpress/Wordpress_2.md)  
+[Wordpress 3](Wordpress/Wordpress_3.md)  
 
 ### Python
 
