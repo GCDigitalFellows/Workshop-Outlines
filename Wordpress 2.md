@@ -188,17 +188,16 @@ That’s it! If ever in doubt about what values to use, just search for it. If i
 ##VII.    Search Engine Optimization (SEO)
 
 1. What is SEO? 
-  Search Engines such as Google, Yahoo, Bing, etc. ranks pages based on a variety of metrics based on a proprietary algorithm. Some features of the algorithm are always relevant and never change. Some of the more nuanced items change. 
-
+  * Search Engines such as Google, Yahoo, Bing, etc. ranks pages based on a variety of metrics based on a proprietary algorithm. Some features of the algorithm are always relevant and never change. Some of the more nuanced items change. 
 2. Why should academics care about SEO – we are building our names, not a product!
-  Yes, this is true – but it would be nice for people to find you based on your field, your research interests, or your achievements in addition to your name.
-  Secondly, things like twitter, facebook, etc. have absurdly high SEOs – it would be better to be found for something you intentionally curate.  
-
+  * Yes, this is true – but it would be nice for people to find you based on your field, your research interests, or your achievements in addition to your name.
+  * Secondly, things like twitter, facebook, etc. have absurdly high SEOs – it would be better to be found for something you intentionally curate. 
 3. How do I increase my SEO? 
-  This is definitely a balancing act for academics – some SEO optimization techniques just won’t work for the type of sites we usually build (i.e., resource pages with lots of links), but others will (i.e., good organization, clear writing, and clear meta data).
+  * This is definitely a balancing act for academics – some SEO optimization techniques just won’t work for the type of sites we usually build (i.e., resource pages with lots of links), but others will (i.e., good organization, clear writing, and clear meta data).
+
 
 Let’s start with a simple plugin:
-Wordpress SEO by Yoast
+*Wordpress SEO by Yoast*
 
 1. Install the Plugin: Wordpress SEO by Yoast
 2. Configure the settings (or leave the defaults) – the Take a Tour button will take you through more than we can get through today.
