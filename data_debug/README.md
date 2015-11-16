@@ -8,7 +8,7 @@
 
 | Year  |  Average Weekday  |  Average Saturday  |  Average Sunday  |  Average Weekend  |  Annual Total |     
 |-------|-------------|------------|--------------|-------------|---------------| 
-|2009  |  5,086,833  |  2,928,247  |  2,283,601  |  5,211,848  |  1,579,866,600 |
+||2009  |  5,086,833  |  2,928,247  |  2,283,601  |  5,211,848  |  1,579,866,600 |
 | 2010  |  5,156,913  |  3,031,289  |  2,335,077  |  5,366,366  |  1,604,198,017 |
 | 2011   |  5,284,295  |  3,082,463  |  2,414,587  |  5,497,050  |  1,640,434,672 |
 | 2012   |  5,380,184  |  3,172,627  |  2,490,736  |  5,663,363  |  1,654,582,265 |
@@ -47,11 +47,9 @@
 #Textual Data#
 Data: https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
 
-Samuel Beckett's Watt #1: http://philolog.us/textanalysis/Watt1.txt
-
-Samuel Beckett's Watt #2: http://philolog.us/textanalysis/Watt2.txt
-
-Samuel Beckett's Watt #3: http://philolog.us/textanalysis/Watt3.txt
+1. Samuel Beckett's Watt sample #1: http://philolog.us/textanalysis/Watt1.txt
+2. Samuel Beckett's Watt sample #2: http://philolog.us/textanalysis/Watt2.txt
+3. Samuel Beckett's Watt sample #3: http://philolog.us/textanalysis/Watt3.txt
 
 Text analyzer: http://www.online-utility.org/text/analyzer.jsp
 
