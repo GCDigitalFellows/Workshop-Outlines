@@ -4,7 +4,18 @@
 
 [wtf viz](http://viz.wtf/)
 
-#Temporal Data
+#MTA Subway Ridership at a Glance#
+
+| Year  |  Average Weekday  |  Average Saturday  |  Average Sunday  |  Average Weekend  |  Annual Total |     
+|-------|-------------|------------|--------------|-------------|---------------| 
+||2009  |  5,086,833  |  2,928,247  |  2,283,601  |  5,211,848  |  1,579,866,600 |
+| 2010  |  5,156,913  |  3,031,289  |  2,335,077  |  5,366,366  |  1,604,198,017 |
+| 2011   |  5,284,295  |  3,082,463  |  2,414,587  |  5,497,050  |  1,640,434,672 |
+| 2012   |  5,380,184  |  3,172,627  |  2,490,736  |  5,663,363  |  1,654,582,265 |
+| 2013   |  5,465,034  |  3,243,495  |  2,563,022  |  5,806,517  |  1,707,555,714 |
+| 2014   |  5,597,551  |  3,233,114  |  2,662,791  |  5,985,905  |  1,751,287,621 |
+
+#Regional Climate Data#
 * [NYC Temperature Data](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCN_2005_2015.xls)
 * Data Types: 
   + MNTM - Monthly mean temperature\n",
@@ -22,7 +33,7 @@
 * Plot Central Park EXMP
 * Plot Bronx MXSD
 
-#Spatial Data#
+#Census Data#
 
 ![xkcd:heatmap](http://imgs.xkcd.com/comics/heatmap.png)
 
