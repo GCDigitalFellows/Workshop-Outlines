@@ -47,9 +47,9 @@
 #Textual Data#
 Data: https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
 
-1. Samuel Beckett's Watt sample #1: http://philolog.us/textanalysis/Watt1.txt
-2. Samuel Beckett's Watt sample #2: http://philolog.us/textanalysis/Watt2.txt
-3. Samuel Beckett's Watt sample #3: http://philolog.us/textanalysis/Watt3.txt
+1. Samuel Beckett's *Watt* sample #1: http://philolog.us/textanalysis/Watt1.txt
+2. Samuel Beckett's *Watt* sample #2: http://philolog.us/textanalysis/Watt2.txt
+3. Samuel Beckett's *Watt* sample #3: http://philolog.us/textanalysis/Watt3.txt
 
 Text analyzer: http://www.online-utility.org/text/analyzer.jsp
 
