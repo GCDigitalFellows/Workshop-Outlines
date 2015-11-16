@@ -6,7 +6,7 @@
 
 #Statistical Data
 
-* [NYC Temperature Data]()
+* [NYC Temperature Data](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCN_2005_2015.xls)
 * Data Types: 
   + MNTM - Monthly mean temperature\n",
   + MMNT - Monthly Mean minimum temperature\n",
@@ -17,7 +17,7 @@
   + EMXP - Extreme maximum daily precipitation\n",
   + TSNW - Total snow fall\n",
   + MXSD - Maximum snow depth\n",
-  + [Data Spec Sheet]()
+  + [Data Spec Sheet](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCNDMS_documentation.pdf)
 ##Tasks###
 * Plot Central Park MNTM
 * Plot Central Park EXMP
