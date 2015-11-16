@@ -28,7 +28,7 @@
 ![xkcd:heatmap](http://imgs.xkcd.com/comics/heatmap.png)
 
 ##Tasks##
-* map? [Google Fusion tables](https://support.google.com/fusiontables/answer/2527132)
+* [Google Fusion tables](https://support.google.com/fusiontables/answer/2527132)
 * [How to map?](http://digitalsplashmedia.com/2014/07/creating-choropleth-maps-with-google-fusion-tables/)
 * Plot births: [US Population Change  Data](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)
 * Download [US Population Data](http://www.census.gov/popest/data/state/totals/2013/tables/NST-EST2013-01.csv)
