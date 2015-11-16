@@ -47,6 +47,10 @@
 #Textual Data#
 Data: https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
 
+Watt1: http://philolog.us/textanalysis/Watt1.txt
+Watt2: http://philolog.us/textanalysis/Watt2.txt
+Watt3: http://philolog.us/textanalysis/Watt3.txt
+
 Text analyzer: http://www.online-utility.org/text/analyzer.jsp
 
 #SURVEY#
