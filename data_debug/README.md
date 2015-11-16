@@ -4,8 +4,7 @@
 
 [wtf viz](http://viz.wtf/)
 
-#Statistical Data
-
+#Temporal Data
 * [NYC Temperature Data](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCN_2005_2015.xls)
 * Data Types: 
   + MNTM - Monthly mean temperature\n",
@@ -23,7 +22,7 @@
 * Plot Central Park EXMP
 * Plot Bronx MXSD
 
-#Mapped Data#
+#Spatial Data#
 
 ![xkcd:heatmap](http://imgs.xkcd.com/comics/heatmap.png)
 
