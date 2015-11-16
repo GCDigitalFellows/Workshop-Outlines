@@ -15,6 +15,9 @@
 | 2013   |  5,465,034  |  3,243,495  |  2,563,022  |  5,806,517  |  1,707,555,714 |
 | 2014   |  5,597,551  |  3,233,114  |  2,662,791  |  5,985,905  |  1,751,287,621 |
 
+* Try to visualize the data->hand drawn task
+* See anything off?
+
 #Regional Climate Data#
 * [NYC Temperature Data](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCN_2005_2015.xls)
 * Data Types: 
