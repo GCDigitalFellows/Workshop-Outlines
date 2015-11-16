@@ -28,7 +28,8 @@
   + TSNW - Total snow fall\n",
   + MXSD - Maximum snow depth\n",
   + [Data Spec Sheet](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCNDMS_documentation.pdf)
-##Tasks###
+
+##Tasks##
 * Plot Central Park MNTM
 * Plot Central Park EXMP
 * Plot Bronx MXSD
