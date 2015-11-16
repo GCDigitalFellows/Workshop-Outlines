@@ -17,7 +17,8 @@ map? [Google Fusion tables](https://support.google.com/fusiontables/answer/25271
 2. Download data
 3. Download [US Population Data](http://www.census.gov/popest/data/state/totals/2013/tables/NST-EST2013-01.csv)
 
-
+#Textual Data#
+https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
 
 #SURVEY#
 TAKE AT END! [EVALUATION SURVEY](https://docs.google.com/forms/d/1Q6dYD6emcNlOTA6oeJmVc3Z-qKvWGGhE_SjVnVRWHbI/viewform)
