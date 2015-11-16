@@ -1,9 +1,27 @@
 #Why data debug?#
 
 ![Ted Underwood overfitting](https://pbs.twimg.com/media/BuIq4vXIAAA04oM.jpg:large)
+
 [wtf viz](http://viz.wtf/)
 
 #Statistical Data
+
+* [NYC Temperature Data]()
+* Data Types: 
+  + MNTM - Monthly mean temperature\n",
+  + MMNT - Monthly Mean minimum temperature\n",
+  + MMXT - Monthly Mean maximum temperature\n",
+  + EMNT - Extreme minimum daily temperature\n",
+  + EMXT - Extreme maximum daily temperature\n",
+  + TPCP - Total precipitation\n",
+  + EMXP - Extreme maximum daily precipitation\n",
+  + TSNW - Total snow fall\n",
+  + MXSD - Maximum snow depth\n",
+  + [Data Spec Sheet]()
+##Tasks###
+* Plot Central Park MNTM
+* Plot Central Park EXMP
+* Plot Bronx MXSD
 
 #Mapped Data#
 
