@@ -15,5 +15,6 @@ Please feel free to change, readapt, rework, and reuse all of these!
 [Introduction to Python](Python/workshop.ipynb)  
 
 ### Data & Visualization
-[Data Debugging](data_debug/README.md)
-[Visualization](viz101/README.md)
+
+* [Data Debugging](data_debug/README.md)
+* [Visualization](viz101/README.md)
