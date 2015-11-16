@@ -45,7 +45,9 @@
 * Download [US Population Data](http://www.census.gov/popest/data/state/totals/2013/tables/NST-EST2013-01.csv)
 
 #Textual Data#
-https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
+Data: https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
+
+Text analyzer: http://www.online-utility.org/text/analyzer.jsp
 
 #SURVEY#
 TAKE AT END! [EVALUATION SURVEY](https://docs.google.com/forms/d/1Q6dYD6emcNlOTA6oeJmVc3Z-qKvWGGhE_SjVnVRWHbI/viewform)
