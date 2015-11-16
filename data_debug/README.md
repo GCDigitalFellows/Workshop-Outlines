@@ -48,6 +48,8 @@
 * Download [US Population Data](http://www.census.gov/popest/data/state/totals/2013/tables/NST-EST2013-01.csv)
 
 #Textual Data#
+Doc: https://docs.google.com/document/d/1kMxKqjmp2izONs4bX7BvikITN5_NZmyno8CatSY6QTU/edit?usp=sharing
+
 Data: https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sharing
 
 1. Samuel Beckett's *Watt* sample #1: http://philolog.us/textanalysis/Watt1.txt
