@@ -19,7 +19,7 @@
 * See anything off?
 
 #Regional Climate Data#
-* [NYC Temperature Data](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCN_2005_2015.xls)
+* [NYC Temperature Data](GHCN_2005_2015.xls)
 * Data Types: 
   + MNTM - Monthly mean temperature\n",
   + MMNT - Monthly Mean minimum temperature\n",
@@ -30,7 +30,7 @@
   + EMXP - Extreme maximum daily precipitation\n",
   + TSNW - Total snow fall\n",
   + MXSD - Maximum snow depth\n",
-  + [Data Spec Sheet](https://github.com/GCDigitalFellows/Workshop-Outlines/blob/master/data_debug/GHCNDMS_documentation.pdf)
+  + [Data Spec Sheet](GHCNDMS_documentation.pdf)
 
 ##Tasks##
 * Plot Central Park MNTM
@@ -44,8 +44,10 @@
 ##Tasks##
 * [Google Fusion tables](https://support.google.com/fusiontables/answer/2527132)
 * [How to map?](http://digitalsplashmedia.com/2014/07/creating-choropleth-maps-with-google-fusion-tables/)
-* Plot births: [US Population Change  Data](http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk)
-* Download [US Population Data](http://www.census.gov/popest/data/state/totals/2013/tables/NST-EST2013-01.csv)
+* [Births By State](birthrates.csv)
+* [US Population Data](NST-EST2013-01.csv)
+Annual Estimates of the Population for the United States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2013 (NST-EST2013-01) Source: U.S. Census Bureau, Population Division Release Date: December 2013
+
 
 #Textual Data#
 Doc: https://docs.google.com/document/d/1kMxKqjmp2izONs4bX7BvikITN5_NZmyno8CatSY6QTU/edit?usp=sharing
