@@ -42,7 +42,7 @@
 ![xkcd:heatmap](http://imgs.xkcd.com/comics/heatmap.png)
 
 ##Tasks##
-* [Google Fusion tables](https://support.google.com/fusiontables/answer/2527132)
+* [Google Fusion tables](https://support.google.com/fusiontables/answer/2571232)
 * [How to map?](http://digitalsplashmedia.com/2014/07/creating-choropleth-maps-with-google-fusion-tables/)
 * [Births By State](birthrates.csv)
 * [US Population Data](NST-EST2013-01.csv)
