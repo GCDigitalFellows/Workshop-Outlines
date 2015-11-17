@@ -56,6 +56,8 @@ Data: https://drive.google.com/folderview?id=0B9G3QtyI3OXWLVNCNHlHazFXMEk&usp=sh
 2. Samuel Beckett's *Watt* sample #2: http://philolog.us/textanalysis/Watt2.txt
 3. Samuel Beckett's *Watt* sample #3: http://philolog.us/textanalysis/Watt3.txt
 
+http://philolog.us/textanalysis/Watt2.pdf
+
 Text analyzer: http://www.online-utility.org/text/analyzer.jsp
 
 #SURVEY#
